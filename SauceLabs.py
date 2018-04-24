@@ -12,4 +12,4 @@ def report_sauce_status(name, status):
     job_id = selenium._current_application().session_id
     passed = status == 'PASS'
     sauce_client.jobs.update_job(job_id, passed = passed)
-    print "SauceOnDemandSessionID=%s job-name=%s" % (job_id, name)
+    print("SauceOnDemandSessionID=%s job-name=%s" % (job_id, name))

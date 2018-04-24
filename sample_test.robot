@@ -14,7 +14,7 @@ ${PLATFORM_VERSION}     %{platformVersion}
 ${DEVICE_NAME}          %{deviceName}
 ${APP}                  http://saucelabs.com/example_files/ContactManager.apk
 ${DEVICE_ORIENTATION}   portrait
-${APPIUM_VERSION}		1.5
+${APPIUM_VERSION}		1.7.2
 
 
 
