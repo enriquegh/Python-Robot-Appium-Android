@@ -1,0 +1,8 @@
+Appium-Python-Client>=0.26
+robotframework>=3.0.3
+robotframework-appiumlibrary>=1.4.6
+robotframework-selenium2library>=3.0.0
+robotframework-seleniumlibrary>=3.1.1
+sauceclient>=1.0.0
+selenium>=3.11.0
+six>=1.11.0
